@@ -1,0 +1,10 @@
+streamlit
+scipy
+researchpy
+chart_studio
+sigfig
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit_posthocs
